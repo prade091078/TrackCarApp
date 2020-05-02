@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Track Car</string>
+
+    <string name="parseAppId">D340lJ2sL5wkJc3DsslQbf9kGDTmbfJBGVtd29mU</string>
+    <string name="parseAppClientId">g1jeAVUAuODAx8t54rNkokvylYnQWicD9PZD5tUd</string>
+    <string name="parseAppServerId">https://parseapi.back4app.com/</string>
+    <string name="title_activity_rider">Map</string>
+
+</resources>
